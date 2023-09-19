@@ -4,7 +4,7 @@
 <ul align="left">
   <li>🔎 I am interested at Web and Software Development </li>
   <li>📚 I am currently learning: Django & Tkinter</li>
-  <li>📧 Reach out to me at: <a>perochejmp@gmail.com**</a></li>  
+  <li>📧 Reach out to me at: <a>perochejmp@gmail.com</a></li>  
 </ul>
 
 <h3 align="left">Find Me On:</h3>
