@@ -9,6 +9,6 @@
 
 <h3 align="left">Find Me On:</h3>
 <a href="https://www.linkedin.com/in/john-mark-peroche-61a756229/" target="blank"><img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="https://www.linkedin.com/in/john-mark-peroche-61a756229/"/></a>
-<a href="https://www.facebook.com/johnmark.pacaldoperoche/" target="blank"><img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/facebook-circled.png" alt="https://www.facebook.com/johnmark.pacaldoperoche/"/></a>
+<a href="https://www.facebook.com/johnmark.pacaldoperoche/" target="blank"><img width="50" height="50" src="https://img.icons8.com/fluency/48/facebook.png" alt="https://www.facebook.com/johnmark.pacaldoperoche/"/></a>
 <a href="https://www.instagram.com/jamaaaaaaaaaaaak/" target="blank"><img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="https://www.instagram.com/jamaaaaaaaaaaaak/"/></a>
 
