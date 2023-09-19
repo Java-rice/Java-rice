@@ -8,4 +8,4 @@
 </ul>
 
 <h3 align="left">Find Me On:</h3>
-<a href="https://www.facebook.com/johnmark.pacaldoperoche/" target="blank"><img width="30" height="10" src="https://img.icons8.com/3d-fluency/94/facebook-circled.png" alt="facebook-circled"/></a>
+<a href="https://www.facebook.com/johnmark.pacaldoperoche/" target="blank"><img width="30" height="30" src="https://img.icons8.com/3d-fluency/94/facebook-circled.png" alt="facebook-circled"/></a>
