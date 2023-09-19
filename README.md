@@ -1,5 +1,3 @@
-<div align="center">
-
 <h1 align ="center"> 👋 Hey there, I'm John Mark Peroche 👋 </h1>
 <h2 align ="center"> 🚀 I'm all about the adventure of exploration and the thrill of continuous learning! 🚀</h2>
 
