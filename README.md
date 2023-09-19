@@ -1,9 +1,9 @@
-<h1 align ="center"> 👋 Hey there, I'm <span style='color: orange;'>John Mark Peroche</span> 👋 </h1>
+<h1 align ="center"> 👋 Hey there, I'm <span style="color: orange;">John Mark Peroche</span> 👋 </h1>
 <h3 align ="center"> 🚀 I'm all about the adventure of exploration and the thrill of continuous learning! 🚀</h3>
 
 <ul align="left">
   <li>🔎 I am interested in Web and Software Development </li>
-  <li>📚 I am currently learning: <span style='color: orange;'>Django & Tkinter</span></li>
+  <li>📚 I am currently learning: Django & Tkinter</li>
   <li>📧 Reach out to me at <a target="_blank" href="mailto:perochejmp@gmail.com" style='color: orange;'>perochejmp@gmail.com</a></li>  
 </ul>
 <h3 align="left">Find Me On:</h3>
