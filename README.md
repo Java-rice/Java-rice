@@ -7,4 +7,4 @@
   <li>📧 Reach out to me at: **perochejmp@gmail.com**</li>  
 </ul>
 
-###<h3 align="left">Find Me On:</h3>
+<h3 align="left">Find Me On:</h3>
