@@ -1,4 +1,4 @@
-<h1 align ="center"> 👋 Hey there, I'm <span style="color: orange;">John Mark Peroche</span> 👋 </h1>
+<h1 align ="center"> 👋 Hey there, I'm <span style="color: orange">John Mark Peroche</span> 👋 </h1>
 <h3 align ="center"> 🚀 I'm all about the adventure of exploration and the thrill of continuous learning! 🚀</h3>
 
 <ul align="left">
