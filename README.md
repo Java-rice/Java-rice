@@ -1,5 +1,5 @@
 <h1 align ="center"> 👋 Hey there, I'm John Mark Peroche 👋 </h1>
-<h2 align ="center"> 🚀 I'm all about the adventure of exploration and the thrill of continuous learning! 🚀</h2>
+<h3 align ="center"> 🚀 I'm all about the adventure of exploration and the thrill of continuous learning! 🚀</h3>
 
 <ul align="left">
   <li>🔎 I am interested at Web and Software Development </li>
