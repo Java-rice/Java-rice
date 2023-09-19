@@ -2,9 +2,9 @@
 <h3 align ="center"> 🚀 I'm all about the adventure of exploration and the thrill of continuous learning! 🚀</h3>
 
 <ul align="left">
-  <li>🔎 I am interested at Web and Software Development </li>
+  <li>🔎 I am interested in Web and Software Development </li>
   <li>📚 I am currently learning: Django & Tkinter</li>
-  <li>📧 Reach out to me at <a target="_blank" href="perochejmp@gmail.com">perochejmp@gmail.com</a></li>  
+  <li>📧 Reach out to me at <a target="_blank" href="mailto:perochejmp@gmail.com">perochejmp@gmail.com</a></li>  
 </ul>
 
 <h3 align="left">Find Me On:</h3>
