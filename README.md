@@ -6,9 +6,6 @@
   <li>📚 I am currently learning: Django & Tkinter</li>
   <li>📧 Reach out to me at <a target="_blank" href="mailto:perochejmp@gmail.com">perochejmp@gmail.com</a></li>  
 </ul>
-
-<br>
-
 <h3 align="left">Find Me On:</h3>
 <a href="https://www.linkedin.com/in/john-mark-peroche-61a756229/" target="blank"><img width="50" height="50" src="https://img.icons8.com/fluency/48/linkedin.png" alt="https://www.linkedin.com/in/john-mark-peroche-61a756229/"/></a>
 <a href="https://www.facebook.com/johnmark.pacaldoperoche/" target="blank"><img width="50" height="50" src="https://img.icons8.com/fluency/48/facebook.png" alt="https://www.facebook.com/johnmark.pacaldoperoche/"/></a>
@@ -17,6 +14,6 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/Java-rice"><img src="https://github-readme-stats.vercel.app/api?username=Java-rice&theme=transparent&count_private=true"></a>
+  <a href="https://github.com/Java-rice"><img src="https://github-readme-stats.vercel.app/api?username=Java-rice&theme=highcontrast&count_private=true"></a>
 </p>
 
