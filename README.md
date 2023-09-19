@@ -4,8 +4,8 @@
 - 🔎 I am interested at Web and Software Development 
 - 📚 I am currently learning: Django & Tkinter
 - 📧 Reach out to me at:
-<p> **perochejmp@gmail.com** </p> 
-<p> **johnmarkpperoche@iskolarngbayan.pup.edu.ph** </p>
+######**perochejmp@gmail.com**
+######**johnmarkpperoche@iskolarngbayan.pup.edu.ph**
 
 
 ###<h3 align="left">Find Me On:</h3>
