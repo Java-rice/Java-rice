@@ -14,6 +14,6 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/Java-rice"><img src="https://github-readme-stats.vercel.app/api?username=Java-rice&theme=highcontrast&count_private=true"><a href="https://github.com/Java-rice"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Java-rice&theme=highcontrast&include_all_commits=true&count_private=true"></a>
+  <a href="https://github.com/Java-rice"><img src="https://github-readme-stats.vercel.app/api?username=Java-rice&theme=highcontrast&count_private=true">   <a href="https://github.com/Java-rice"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Java-rice&theme=highcontrast&include_all_commits=true&count_private=true"></a>
 </p>
 
