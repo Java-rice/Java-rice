@@ -9,9 +9,9 @@
 
 <h2 align="center">Find Me On</h2>
 <div align="center">
-<a href="https://www.linkedin.com/in/john-mark-peroche-61a756229/" target="blank"><img width="50" height="50" src="https://img.icons8.com/fluency/48/linkedin.png" alt="https://www.linkedin.com/in/john-mark-peroche-61a756229/"/></a>
-<a href="https://www.facebook.com/johnmark.pacaldoperoche/" target="blank"><img width="50" height="50" src="https://img.icons8.com/fluency/48/facebook.png" alt="https://www.facebook.com/johnmark.pacaldoperoche/"/></a>
-<a href="https://www.instagram.com/jamaaaaaaaaaaaak/" target="blank"><img width="50" height="50" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="https://www.instagram.com/jamaaaaaaaaaaaak/"/></a>
+<a href="https://www.linkedin.com/in/john-mark-peroche-61a756229/" target="blank"><img width="60" height="60" src="https://img.icons8.com/fluency/48/linkedin.png" alt="https://www.linkedin.com/in/john-mark-peroche-61a756229/"/></a>
+<a href="https://www.facebook.com/johnmark.pacaldoperoche/" target="blank"><img width="60" height="60" src="https://img.icons8.com/fluency/48/facebook.png" alt="https://www.facebook.com/johnmark.pacaldoperoche/"/></a>
+<a href="https://www.instagram.com/jamaaaaaaaaaaaak/" target="blank"><img width="60" height="60" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="https://www.instagram.com/jamaaaaaaaaaaaak/"/></a>
 </div>
 
 <h2 align="center">Toolset</h2>
