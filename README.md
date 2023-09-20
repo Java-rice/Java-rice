@@ -36,13 +36,11 @@
 </div>
 
 
-<div>
 <h2 align="center">Progress</h2>
 <p align="center">
-  <a href="https://github.com/Java-rice"><img src="https://github-readme-stats.vercel.app/api?username=Java-rice&theme=slateorange&count_private=true">            
-  <a href="https://github.com/Java-rice"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Java-rice&theme=slateorange&include_all_commits=true&count_private=true"></a>
-  <a href="https://github.com/Java-rice"><img alt="Languages used" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=java-rice&langs_count=8&count_private=true&layout=compact&theme=slateorange"/></a>
+  <a href="https://github.com/Java-rice"><img src="https://github-readme-stats.vercel.app/api?username=Java-rice&theme=slateorange&count_private=true"></a>            
+  <a href="https://github.com/Java-rice"><img src="https://streak-stats.demolab.com/?user=Java-rice&theme=slateorange&include_all_commits=true&count_private=true"></a>
+  <a href="https://github.com/Java-rice"><img alt="Languages used" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=java-rice&langs_count=8&count_private=true&layout=compact&theme=slateorange"/></a>
   <br/>
 </p>
-</div>
 
