@@ -26,8 +26,10 @@
   <a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=ED8B00"></a>
   <a><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC"></a>
+  <a><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
   <a><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563D7C"></a>
   <a><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20"></a>
+  <a><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=07405E"></a>
   <a><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&labelColor=black&logo=visual%20studio%20code&logoColor=0078D4"></a>
   <a><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
