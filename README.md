@@ -3,7 +3,7 @@
 
 <ul align="left">
   <li>🔎 I am interested in Web and Software Development </li>
-  <li>📚 I am currently learning: Django & Tkinter</li>
+  <li>📚 I am currently learning: React</li>
   <li>📧 Reach out to me at <a target="_blank" href="mailto:perochejmp@gmail.com">perochejmp@gmail.com</a></li>  
 </ul>
 
