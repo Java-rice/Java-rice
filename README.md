@@ -19,6 +19,8 @@
 
   <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26"></a>
   <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6"></a>
+  <a><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB"></a>
+<a><img src="https://img.shields.io/badge/TanStack-E63946?style=for-the-badge&labelColor=black&logo=react-query&logoColor=E63946"></a>
   <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"></a>
   <a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&labelColor=black&logo=c&logoColor=00599C"></a>
   <a><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C"></a>
