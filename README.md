@@ -38,6 +38,10 @@
   <a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&labelColor=black&logo=git&logoColor=E44C30"></a>
   <a><img src="https://img.shields.io/badge/Figma-C5C6D0?style=for-the-badge&labelColor=black&logo=figma&logoColor=C5C6D0"></a>
   <a><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&labelColor=black&logo=windows&logoColor=0078D6"></a>
+  <a><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=21759B"></a>
+  <a><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37"></a>
+  <a><img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A"></a>
+
   
 </div>
 
