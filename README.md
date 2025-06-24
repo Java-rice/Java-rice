@@ -1,11 +1,21 @@
-<h1 align ="center"> 👋 Hey there, I'm John Mark Peroche 👋 </h1>
-<h3 align ="center"> 🚀 I'm all about the adventure of exploration and the thrill of continuous learning! 🚀</h3>
+<h1 align="center">👋 Hi, I'm John Mark Peroche</h1>
+<h3 align="center">🚀 A passionate frontend developer who loves building, learning, and solving problems! 🚀</h3>
 
-<ul align="left">
-  <li>🔎 I am interested in Web and Software Development </li>
-  <li>📚 I am currently learning: React</li>
-  <li>📧 Reach out to me at <a target="_blank" href="mailto:perochejmp@gmail.com">perochejmp@gmail.com</a></li>  
-</ul>
+<p align="center">
+  💡 I'm a Computer Science graduate focused on crafting responsive and user-friendly web applications.  
+  I enjoy combining clean code with thoughtful UI to build digital experiences that matter.
+</p>
+
+---
+
+### 🧠 About Me
+- 🔎 I specialize in **Frontend Development** but also have experience with backend tools like Django, Node.js, and MySQL.
+- 🌱 Currently learning: **Advanced React Patterns & Performance Optimization**
+- 🛠 Comfortable with: React, TypeScript, Tailwind, REST APIs, Git, Figma
+- 📬 Reach out to me: <a href="mailto:perochejmp@gmail.com">perochejmp@gmail.com</a>
+- 🌐 Portfolio: [https://java-rice.github.io/portfolio](https://java-rice.github.io/IAmJM/)
+
+---
 
 <h2 align="center">Find Me On</h2>
 <div align="center">
@@ -46,11 +56,15 @@
 </div>
 
 
-<h2 align="center">Progress</h2>
+<h2 align="center">GitHub Activity</h2>
 <p align="center">
   <a href="https://github.com/Java-rice"><img src="https://github-readme-stats.vercel.app/api?username=Java-rice&theme=slateorange&count_private=true"></a>            
   <a href="https://github.com/Java-rice"><img src="https://streak-stats.demolab.com/?user=Java-rice&theme=slateorange&include_all_commits=true&count_private=true"></a>
   <a href="https://github.com/Java-rice"><img alt="Languages used" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=java-rice&langs_count=8&count_private=true&layout=compact&theme=slateorange"/></a>
   <br/>
 </p>
+
+
+
+Thanks for visiting! Let’s build something amazing together.
 
